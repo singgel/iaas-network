@@ -16,5 +16,5 @@
 # 集群架构
 
 ## VIP集群拓扑
-[dpdk全科普](./VIP集群/readme.md)
+[VIP集群](./VIP集群/readme.md)
 ## other 
