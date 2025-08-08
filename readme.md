@@ -1,5 +1,5 @@
 # 基础网络全科普
-[基础网络全科普](./基础网络/readme.md)
+[基础网络全科普](./基础网络/README.md)
 # ovs全科普
 [ovs全科普](./OVS全科普/readme.md)
 # dpdk全科普
